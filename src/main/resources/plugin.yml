@@ -1,0 +1,6 @@
+name: VillagerAbuse
+version: '${project.version}'
+main: xyz.gamars.villagerabuse.VillagerAbuse
+api-version: 1.19
+description:
+  IB: https://www.reddit.com/r/shittymcsuggestions/comments/w2f7x9/every_time_you_hit_a_villager_its_prices_will_get/
